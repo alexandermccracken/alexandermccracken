@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexandermccracken
+- Hello,  I’m @alexandermccracken
 
 <!---
 alexandermccracken/alexandermccracken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
